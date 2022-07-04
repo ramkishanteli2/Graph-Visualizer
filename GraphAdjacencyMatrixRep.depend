@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1624647557 source:e:\datastructure\c\graph\graphadjacencymatrixrep\graph.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<graphics.h>
+	"GraphStructure.h"
+	<vector>
+	<algorithm>
+	<iostream>
+	<queue>
+
+1621433179 e:\datastructure\c\graph\graphadjacencymatrixrep\graphstructure.h
+
+1624647557 source:d:\datastructure\c\graph\graphadjacencymatrixrep\graph.cpp
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<graphics.h>
+	"GraphStructure.h"
+	<vector>
+	<algorithm>
+	<iostream>
+	<queue>
+
+1621433179 d:\datastructure\c\graph\graphadjacencymatrixrep\graphstructure.h
+
